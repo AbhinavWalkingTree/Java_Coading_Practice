@@ -1,4 +1,4 @@
-package streamsgs;
+package Streams;
 
 // package Polymorphism;
 

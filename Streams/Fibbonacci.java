@@ -1,4 +1,4 @@
-package streamsgs;
+package Streams;
 
 import java.util.Scanner;
 
