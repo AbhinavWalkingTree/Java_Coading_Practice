@@ -14,6 +14,7 @@ public class ItreateAArrayPlaceNull {
         .boxed().collect(Collectors.toList());
         System.out.println("Null Position: "+nullPosition);
 
+        
       //collect and sort Non null 
           List<Integer> nonNullElements=num.stream().filter(val -> val != 0 && val != 1)
             .sorted()
